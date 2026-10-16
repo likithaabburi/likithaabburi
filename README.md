@@ -84,7 +84,7 @@
 <!-- GitHub Contribution Space Shooter Game -->
 <h3 align="left">🚀 Space Shooter Contribution Game:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/likithaabburi/likithaabburi/main/assets/game.gif" alt="Space Shooter Contribution Game" width="100%" />
+  <img src="https://raw.githubusercontent.com/likithaabburi/likithaabburi/main/game.gif" alt="Space Shooter Contribution Game" width="100%" />
 </p>
 
 <br/>
